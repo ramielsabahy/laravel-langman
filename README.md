@@ -1,4 +1,4 @@
-<h1 align="center">Laravel Langman</h1>
+<h1 align="center">Laravel Langman Supporting PHP 8.0</h1>
 
 <p align="center">
 Langman is a language files manager in your artisan console, it helps you search, update, add, and remove
@@ -21,7 +21,7 @@ translation lines with ease. Taking care of a multilingual interface is not a he
 Begin by installing the package through Composer. Run the following command in your terminal:
 
 ```
-$ composer require themsaid/laravel-langman
+$ composer require ramielsabahy/laravel-langman
 ```
 
 Once done, add the following line in your providers array of `config/app.php`:
